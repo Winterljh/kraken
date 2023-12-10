@@ -1,1 +1,1 @@
-# kraken
+![python version](https://badgen.net/badge/python/3.11)
